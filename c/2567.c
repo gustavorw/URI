@@ -1,20 +1,4 @@
-/*
- * =====================================================================================
- *
- *       Filename:  virus.c
- *
- *    Description:  Virus 2567
- *
- *        Version:  1.0
- *        Created:  02/10/2019 19:56:25
- *       Revision:  none
- *       Compiler:  gcc
- *
- *         Author:  Arthur Mauricio (punisher077), arthur.mts@gmail.com
- *   Organization:  
- *
- * =====================================================================================
- */
+
 #include <stdlib.h>
 #include <stdio.h>
 
